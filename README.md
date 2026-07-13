@@ -238,7 +238,7 @@ This project is licensed under the MIT License.
 
 **Inaam**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://www.linkedin.com/in/your-linkedin-profile/
+- GitHub: (https://github.com/inaam777me/)
+- LinkedIn: https://www.linkedin.com/in/inaam1/
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
